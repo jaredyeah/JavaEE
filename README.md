@@ -1,4 +1,4 @@
 # JavaEE
 Java Web
 
-### SIMPLE SERVLET
+Servlet
